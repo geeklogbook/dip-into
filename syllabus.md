@@ -1,88 +1,40 @@
 # General Topics
 
-## Introduction to Programming Concepts
-Variables
-Data types
-Operators
-Basic input/output
+## The first program 
+
+1. The first program: Hello World
+1. The first Run
+
+## Basic Programming Concepts
+1. Variables
+1. Data types
+1. Operators
 ## Control Structures
-Conditional statements (if, else)
-Loops (for, while)
-Switch statements (if applicable)
+1. Conditional statements (if, else)
+1. Loops (for, while)
+1. Switch statements (if applicable)
 ## Functions
-Function declaration
-Parameters and return values
-Function calls
+1. Function declaration
+1. Parameters and return values
+1. Function calls
 ## Data Structures
-Arrays
-Lists (if applicable)
-Maps/Dictionaries (if applicable)
+1. Arrays
+1. Lists (if applicable)
+1. Maps/Dictionaries (if applicable)
 ## Language-Specific Syntax
-Basic syntax rules
-Commenting conventions
-String manipulation
+1. Basic syntax rules
+1. Commenting conventions
+1. String manipulation
 ## File Handling
-Reading from and writing to files
+1. Reading from and writing to files
 ## Error Handling
-Exception handling (if applicable)
-## Object-Oriented Programming (OOP)
-Classes and objects
-Inheritance
-Polymorphism (if applicable)
+1. Exception handling (if applicable)
 ## Concurrency
-Basic concepts (if applicable)
+1. Basic concepts (if applicable)
 ## Interfacing with the Operating System
-Basic system calls (if applicable)
+1. Basic system calls (if applicable)
 ## Assembler Specifics (if included)
-Introduction to assembly language
-Basic instructions and registers
+1. Introduction to assembly language
+1. Basic instructions and registers
 ## Miscellaneous Topics
-Best practices and style guidelines
-
-# Algorithms
-
-## Searching Algorithms:
-Linear Search
-Binary Search
-Depth-First Search (DFS)
-Breadth-First Search (BFS)
-## Sorting Algorithms:
-Bubble Sort
-Insertion Sort
-Selection Sort
-Merge Sort
-Quick Sort
-Heap Sort
-## Graph Algorithms:
-Dijkstra's Algorithm (shortest path)
-Bellman-Ford Algorithm (shortest path with negative weights)
-Prim's Algorithm (minimum spanning tree)
-Kruskal's Algorithm (minimum spanning tree)
-## Dynamic Programming:
-Fibonacci Series
-Knapsack Problem
-Longest Common Subsequence
-Matrix Chain Multiplication
-## Greedy Algorithms:
-Minimum Spanning Tree (Prim's, Kruskal's)
-Dijkstra's Algorithm
-Huffman Coding
-## Backtracking:
-N-Queens Problem
-Sudoku Solver
-Subset Sum Problem
-## String Algorithms:
-String Searching (KMP Algorithm, Rabin-Karp Algorithm)
-String Matching (Boyer-Moore Algorithm)
-## Number Theory:
-Euclidean Algorithm (GCD)
-Sieve of Eratosthenes (prime numbers)
-Primality Testing (Miller-Rabin Algorithm)
-## Geometric Algorithms:
-Convex Hull (Graham Scan, Jarvis March)
-Line Intersection
-Closest Pair of Points
-## Miscellaneous:
-Bit Manipulation (Bitwise operations)
-Topological Sorting
-Minimum Cut in a Graph (Karger's Algorithm)
+1. Basic input/output

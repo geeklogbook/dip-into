@@ -1,6 +1,6 @@
 # Dip Into Programming Languages
 
-## Simple Algorithms in Multiple Programming Languages
+## Simple Code in Multiple Programming Languages
 
 This repository contains implementations of simple algorithms in various programming languages. The goal is to provide examples that demonstrate how these algorithms can be expressed in different languages, showcasing their syntax and fundamental concepts.
 
